@@ -9,3 +9,4 @@ autopublish
 insecure
 iron:router
 netanelgilad:angular2-typescript
+differential:vulcanize
