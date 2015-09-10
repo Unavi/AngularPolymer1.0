@@ -1,10 +1,10 @@
 Router.configure({
   layoutTemplate: 'layout',
   
-  yieldRegions: {
-    'footer': {to: 'footer'},
-    'menu': {to: 'menu'}
-  }
+  // yieldRegions: {
+  //   'footer': {to: 'footer'},
+  //   'menu': {to: 'menu'}
+  // }
 });
 
 
