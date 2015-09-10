@@ -18,3 +18,6 @@ Under `public/polymer/lib/` you can find the file `imports.html` [[1]](https://g
 To recompile go to this location und run `vulcanize imports.html > polymerVulcanized.html`
 
 Here you can find [vulcanize](https://github.com/polymer/vulcanize).
+
+Porblems:
+Right now the html templates aren't loaded. It worked at some point so if you have any idea every help is more than welcome :smile:
