@@ -1,0 +1,32 @@
+<dom-module id="sticky-footer">
+
+	<template>
+		<style>
+			.sticky-footer {
+				position: absolute;
+				bottom: 0;
+				width: 100%;
+				background-color: yellow;
+				height: 2em;
+			}
+		</style>
+
+		<!-- local DOM for your element -->
+		<div class="sticky-footer">
+			<content></content>
+		</div>
+	</template>
+</dom-module>
+
+
+<script>
+	// element registration
+		Polymer({
+		is: "sticky-footer",
+	
+		// add properties and methods on the element's prototype
+		properties: {
+			// declare properties for the element's public API
+		}
+		});
+</script>

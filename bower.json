@@ -1,0 +1,14 @@
+{
+  "name": "MeteorPolymer1.02",
+  "version": "0.0.0",
+  "authors": [
+    "Lukas Paul <lukas.paul@gmx.at>"
+  ],
+  "dependencies": {
+    "iron-a11y-keys": "PolymerElements/iron-a11y-keys#^1.0.0",
+    "iron-ajax": "PolymerElements/iron-ajax#^1.0.0",
+    "iron-elements": "PolymerElements/iron-elements#~1.0.3",
+    "paper-button": "PolymerElements/paper-button#^1.0.0",
+    "paper-elements": "PolymerElements/paper-elements#~1.0.5"
+  }
+}
