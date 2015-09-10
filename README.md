@@ -13,11 +13,6 @@ Bower
 * Polymer - Iron Elements
 * Polymer - Paper Elements
 
-Under `public/polymer/lib/` you can find the file `imports.html` [[1]](https://github.com/Unavi/AngularPolymer1.0/blob/master/public/polymer/lib/imports.html) used for the polymer imports.
+Under `public/polymer/components/` you can add your custom templates.
 
-To recompile go to this location und run `vulcanize imports.html > polymerVulcanized.html`
-
-Here you can find [vulcanize](https://github.com/polymer/vulcanize).
-
-Porblems:
-Right now the html templates aren't loaded. It worked at some point so if you have any idea every help is more than welcome :smile:
+Then add them to the `custom-components.html`.
